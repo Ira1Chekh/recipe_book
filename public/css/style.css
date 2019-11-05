@@ -1,0 +1,74 @@
+h1{
+    float: left;
+}
+h3{
+    padding-bottom: 20px;
+}
+a, a:hover{
+    text-decoration: none;
+    color: #1b1e21;
+}
+.sidebar-item:not(:first-child) {
+    padding: 20px 0;
+}
+.sidebar-item img{
+    float: left;
+    margin-right: 10px;
+}
+.sidebar-item h1{
+    padding-bottom: 20px;
+}
+
+.sidebar-logout{
+    float: right;
+}
+.sidebar-logout h5{
+    float: right;
+    margin-left: 5px;
+}
+.block{
+
+}
+.main{
+    margin-top: 90px;
+}
+
+.btn-remove, .btn-remove:hover{
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+}
+.btn-save, .btn-save:hover{
+    padding: 10px 30px;
+    border-color: #1b1e21;
+    float: right;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+}
+.btn-add, .btn-add:hover{
+    padding: 5px 20px;
+    border-color: #1b1e21;
+    float: right;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+}
+
+.icon{
+    float: left;
+    padding-right: 8px;
+    font-size: 1.2em;
+}
+.icon-edit{
+    float: left;
+    padding-right: 20px;
+}
+label{
+    padding-right: 40px;
+}
+section{
+    margin: 40px 0;
+}
